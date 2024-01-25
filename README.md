@@ -7,9 +7,9 @@ This program will output a google sheets that contains all curated opportunities
 ## Packages
 Packages used for this programs are:
 * requests
-'pip install requests'
+`pip install requests`
 * Selenium Webdriver
-'pip install selenium'
+`pip install selenium`
 
 ## API
 This program uses Sheety API to send curated opportunities data to google sheets. If you'd like to try the program yourself, you should create your own account and recreate the format of the sheets shown in the Output section.
@@ -19,4 +19,4 @@ This program uses Sheety API to send curated opportunities data to google sheets
 Rizky Maulana Hadi
 
 ## License
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the [MIT license](https://github.com/rizkyarchives/AIESEC-web-scraper/blob/main/LICENSE).
